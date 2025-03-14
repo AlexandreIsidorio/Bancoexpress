@@ -1,6 +1,8 @@
 # Bancoexpress
 # BancoExpress
 
+![Screenshot do BancoExpress]([images/screenshot.png](https://github.com/AlexandreIsidorio/Bancoexpress/blob/main/Captura%20de%20tela_2025-03-14_10-49-56.png))
+
 O **BancoExpress** é um sistema bancário simples desenvolvido em Java que permite realizar operações básicas como depósitos, saques, pagamento de boletos e consulta de saldo e extrato. Este projeto é ideal para quem está aprendendo Java e quer entender conceitos como orientação a objetos, manipulação de listas e interação com o usuário via terminal.
 
 ---
